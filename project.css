@@ -1,0 +1,171 @@
+header
+{
+    background-color: rgb(146, 89, 39);
+    height: 300px;
+}
+.photo
+{
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+    margin: 20px;
+    float: left;
+    border-style: solid;
+}
+.name
+{
+    float: left;
+    text-align: center;
+    margin-left: 50%;
+}
+.line
+{
+    border-bottom-style: solid;
+    padding: 60px;
+}
+.icons
+{
+    margin-left: 20px;
+    padding: 10px;
+    padding-left: 10px;
+}
+small
+{
+    padding: 50px;
+}
+.left
+{
+
+
+    background-color: rgb(177, 121, 72);
+    float: left;
+    height: 450px;
+    width: 20%;
+    border-radius: 90px;
+    margin: 5px;
+    padding: 10px;
+  
+   
+}
+
+.right
+{
+    background-color: rgb(218, 156, 103);
+    float: left;
+    height: 450px;
+    width: 75%;
+    border-radius: 90px;
+    margin: 5px;
+    padding: 10px;
+}
+.title1
+{
+    margin-left: 10px;
+    
+}
+.Title
+{
+    background-color: white;
+    font-style: italic;
+    border-radius: 20px;
+}
+.pg
+{
+    font-size: large;
+   
+}
+.nav
+{
+background-color:beige;
+padding: 10px;
+margin: 20px;
+clear: both;
+}
+.nav a{
+    color:black;
+    text-decoration: none;
+    padding: 10px;
+    cursor: pointer;
+   
+}
+.nav a:hover
+{
+    background-color: rgb(177, 121, 72);
+}
+.icons1
+{
+    float: left;
+    padding: 10px;
+}
+.course1
+{
+    background-color: rgb(80, 120, 122);
+    float: left;
+    height: 200px;
+    width: 95%;
+    border-radius: 60px;
+    margin: 5px;
+    padding: 10px;
+}
+.project
+{
+    text-align: center;
+    font-size: xx-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.img
+{
+    height: 250px;
+    width: 250px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 30px;
+    box-shadow: black 5px 5px 5px;
+    
+}
+.img1
+{
+    float: left;
+}
+.video
+{
+    height: 400px;
+    width: 600px;
+    margin: 10px;
+    
+}
+.divideo
+{
+    text-align: center; 
+    background-color: black;
+    border-radius: 10px;
+    margin: 30px;
+    padding: 20px;
+
+}
+.back{
+    background-color:rgb(218, 156, 103) ;
+}
+.nav1{
+    background-color:beige;
+    padding: 10px;
+    margin: 20px;
+    clear: both;
+    
+    
+}
+.nav1 a{
+    color:black;
+    text-decoration: none;
+    padding: 10px;
+    cursor: pointer;
+    display: block;
+   
+}
+.nav1 a:hover
+{
+    background-color: rgb(177, 121, 72);
+}
+.active {
+    background-color:rgb(177, 121, 72) ;
+}
